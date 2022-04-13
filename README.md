@@ -1,7 +1,15 @@
 <p align="center">
-  <img src="https://github.com/MarcosConrado/MarcosConrado/raw/main/assets/header-github.gif" alt="Oi 👋, Eu sou o Wendel 🚀 Um estudante com foco em Full Stack em constante evolução 🚀">  
+  <img src="https://github.com/Wendel-Andrade/Wendel-Andrade/raw/main/assets/gif-github.gif" alt="Oi 👋, Eu sou o Wendel 🚀 Um estudante com foco em Full Stack em constante evolução 🚀">  
 </p>
 
+<!--
+How to make this gif ?
+💜 Thanks to https://github.com/matyo91
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
 - 👯 Eu procuro colaborar em **projetos web**
 - 💬 Me pergunte sobre **tecnologias e desenvolvimento front end**
