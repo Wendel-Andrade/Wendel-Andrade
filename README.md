@@ -24,6 +24,12 @@
 <a href="https://linkedin.com/in/wendel andrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendel andrade" height="30" width="40" /></a>
 </p>
 
+ <div> 
+ 
+  ![Snake animation](https://github.com/Wendel-Andrade/Wendel-Andrade/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 <!--
 **Wendel-Andrade/Wendel-Andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
