@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Wendel-Andrade/Wendel-Andrade/raw/main/assets/gif-github.gif" alt="Oi 👋, Eu sou o Wendel 🚀 Um estudante com foco em Full Stack em constante evolução 🚀">  
+  <img src="https://github.com/Wendel-Andrade/Wendel-Andrade/raw/main/assets/gif-github-1.gif" alt="Oi 👋, Eu sou o Wendel 🚀 Um estudante com foco em Full Stack em constante evolução 🚀">  
 </p>
 
 <!--
